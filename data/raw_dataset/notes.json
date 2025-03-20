@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Alfa Romeo Racing"
+    },
+    {
+      "id": 1,
+      "name": "Ferrari"
+    },
+    {
+      "id": 2,
+      "name": "Haas"
+    },
+    {
+      "id": 3,
+      "name": "McLaren"
+    },
+    {
+      "id": 4,
+      "name": "Mercedes"
+    },
+    {
+      "id": 5,
+      "name": "Racing Point"
+    },
+    {
+      "id": 6,
+      "name": "RedBull"
+    },
+    {
+      "id": 7,
+      "name": "Renault"
+    },
+    {
+      "id": 8,
+      "name": "Toro Rosso"
+    },
+    {
+      "id": 9,
+      "name": "Williams"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
