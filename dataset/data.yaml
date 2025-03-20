@@ -1,0 +1,17 @@
+path : ../dataset
+train : train/images
+val : val/images
+
+
+nc : 10
+names :
+- Alfa Romeo Racing
+- Ferrari
+- Haas
+- McLaren
+- Mercedes
+- Racing Point
+- RedBull
+- Renault
+- Toro Rosso
+- Williams
