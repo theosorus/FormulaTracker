@@ -1,0 +1,13 @@
+*.png
+*.jpg
+*.mp4
+*.txt
+*.pt
+*.csv
+*.cache
+events.out.tfevents.*
+
+.DS_Store
+
+.venv/
+.vscode/
