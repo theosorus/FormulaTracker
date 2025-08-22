@@ -1,6 +1,6 @@
 # 🏎️ FormulaTracker — Detect F1 cars by team with YOLO
 
-> Train a YOLO model on a custom Formula 1 dataset to detect cars **by team** in video frames.
+> The goal of this project is to train a **YOLO model** on a **custom dataset** to detect Formula 1 cars and classify them by team in video footage.
 
 <div align="center">
   <img src="assets/f1_gif_1.gif" alt="FormulaTracker demo gif" width="700"/>
@@ -13,11 +13,6 @@
 
 ---
 
-## Why this project?
-
-TV overlays don’t always make it easy to follow who’s who at speed. FormulaTracker trains a YOLO model on a curated F1 broadcast to identify **which team** each car belongs to in every frame—unlocking analytics, overlays, and highlight tooling.
-
----
 
 ## Dataset
 
