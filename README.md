@@ -14,28 +14,29 @@
 ---
 
 
-## Dataset
+# 📊 Dataset
 
 - **Source:** curated from a full Grand Prix broadcast. Non-relevant segments were trimmed out.
 - **Annotation tool:** [labelImg](https://github.com/HumanSignal/labelImg)
 - **Split:** `train = 442` images, `val = 111` images
 - **Classes (10):**
   
-1. Alfa Romeo Racing
-2. Ferrari
-3. Haas
-4. McLaren
-5. Mercedes
-6. Racing Point
-7. RedBull
-8. Renault
-9. Toro Rosso
-10. Williams
+| Team              |
+|-------------------|
+| Alfa Romeo Racing |
+| Ferrari           |
+| Haas              |
+| McLaren           |
+| Mercedes          |
+| Racing Point      |
+| RedBull           |
+| Renault           |
+| Toro Rosso        |
+| Williams          |
 
 
 
-
-# Train the model
+# 🏋️ Train the model
 
 | Hyperparameters | value      |
 |-----------------|------------|
