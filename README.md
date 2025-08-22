@@ -13,7 +13,7 @@ Yolo link : https://docs.ultralytics.com/fr/
 
 
 <div align="center">
-<img src="assets/f1_gif_1.gif" alt="Demo du projet" width="600"/>
+  <img src="assets/f1_gif_1.gif" alt="" width="600"/>
 </div>
 
 
@@ -48,7 +48,29 @@ time: null
 batch: 16
 imgsz: 640
 
-## Results
+### Results
+
+  <img src="assets/results.png" alt="" width="600"/>
+
+
+### Confusion matrix
+
+
+  <img src="assets/confusion_matrix_normalized.png" alt="" width="600"/>
+
+
+### Visualize pred on valid batch
+
+
+  <img src="assets/val_batch2_pred.jpg" alt="" width="600"/>
+
+# Improvments
+
+Dans le future il pourrait etre interessant d'essayer de calculer la vitesse des voiture en temps reels 
+
+
+
+
 
 
 
