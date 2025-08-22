@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.kaggle.com/datasets/gazeux330000/formula1-box">Dataset on Kaggle</a> •
+  <a href="https://www.kaggle.com/datasets/gazeux330000/formula1-box">Dataset I built on Kaggle</a> •
   <a href="https://docs.ultralytics.com/">Ultralytics YOLO docs</a> •
 </p>
 
@@ -63,7 +63,7 @@
 
   <img src="assets/val_batch2_pred.jpg" alt="" width="600"/>
 
-# Roadmap / Future ideas
+# 🚀 Roadmap / Future ideas
 - 🚥 Real-time speed estimation: approximate car speeds using multi-frame tracking + homography.
 - 📺 On-screen overlay: draw team labels on live or recorded video streams.
 - 🧩 Tracking: integrate ByteTrack/BoT-SORT for consistent track IDs across frames.
